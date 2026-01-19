@@ -1,0 +1,11 @@
+{
+  "subdomain": "ka",
+  "domain": "thedev.me",
+  "email_or_discord": "takegap",
+  "github_username": "kleidsonadesign",
+  "description": "My portfolio to show, resume and projects",
+  "records": {
+    "CNAME": ["cname.vercel-dns.com"]
+  },
+  "proxied": true
+}
